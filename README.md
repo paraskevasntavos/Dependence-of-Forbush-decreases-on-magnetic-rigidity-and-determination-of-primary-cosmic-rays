@@ -1,0 +1,2 @@
+# Dependence-of-Forbush-decreases-on-magnetic-rigidity-and-determination-of-primary-cosmic-rays
+orbush Decrease analysis toolkit using NMDB neutron monitor data (OULU, ROME, SOPB). Includes data cleaning, time alignment, plotting, and modeling with the Wawrzynczak–Alania method plus Clem–Dorman coupling function to estimate rigidity dependence and infer primary cosmic-ray variations.
